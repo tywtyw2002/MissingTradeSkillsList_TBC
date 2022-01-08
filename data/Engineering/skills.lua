@@ -5135,6 +5135,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "地精烈焰砲塔",
 		},
 		["phase"] = 1,
+		["specialisation"] = 20219,		
 		["trainers"] = {
 			["price"] = 25000,
 			["sources"] = {
@@ -5188,6 +5189,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "有限無敵腰帶",
 		},
 		["phase"] = 1,
+		["specialisation"] = 20219,		
 		["trainers"] = {
 			["price"] = 50000,
 			["sources"] = {
@@ -5450,7 +5452,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Destructor de korio giroequilibrado",
 			["Taiwanese"] = "迴轉平衡克銀毀滅火槍",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5624,7 +5626,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas X11 Arremetida mortal",
 			["Taiwanese"] = "死亡打擊X11護目鏡",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
