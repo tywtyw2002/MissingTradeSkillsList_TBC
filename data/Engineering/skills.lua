@@ -5631,6 +5631,10 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["classes"] = {
+			"druid",
+			"rogue",
+		},
 		["expansion"] = 2,
 		["id"] = 41317,
 		["item_id"] = 32478,
