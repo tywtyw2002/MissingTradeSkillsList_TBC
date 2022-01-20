@@ -5002,6 +5002,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "特大炸彈",
 		},
 		["phase"] = 1,
+		["specialisation"] = 20222,
 		["trainers"] = {
 			["price"] = 23750,
 			["sources"] = {
@@ -5028,6 +5029,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "強力工事炸藥",
 		},
 		["phase"] = 1,
+		["specialisation"] = 20222,
 		["trainers"] = {
 			["price"] = 33250,
 			["sources"] = {
