@@ -4256,7 +4256,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 			["Spanish"] = "Encantar arma: golpear sublime",
 			["Taiwanese"] = "附魔武器 - 極效打擊",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
