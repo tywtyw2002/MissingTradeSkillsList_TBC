@@ -5407,6 +5407,10 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["classes"] = {
+			"paladin",
+			"warrior",
+		},		
 		["expansion"] = 2,
 		["id"] = 40274,
 		["item_id"] = 32461,
@@ -5423,7 +5427,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas cacharráticas frenéticas",
 			["Taiwanese"] = "狂怒電磁護目鏡",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5465,6 +5469,9 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["classes"] = {
+			"paladin",
+		},
 		["expansion"] = 2,
 		["id"] = 41311,
 		["item_id"] = 32472,
@@ -5481,7 +5488,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de la Justiciera 2000",
 			["Taiwanese"] = "正義化身2000護目鏡",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5494,10 +5501,14 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["classes"] = {
+			"paladin",
+			"warrior",
+		},		
 		["expansion"] = 2,
 		["id"] = 41312,
 		["item_id"] = 32473,
-		["min_skill"] = 1,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "坦克眼镜",
 			["English"] = "Tankatronic Goggles",
@@ -5510,7 +5521,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas tanquetrónicas",
 			["Taiwanese"] = "坦克電子護目鏡",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5523,6 +5534,10 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["classes"] = {
+			"hunter",
+			"shaman",
+		},
 		["expansion"] = 2,
 		["id"] = 41314,
 		["item_id"] = 32474,
@@ -5539,7 +5554,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de golpe seguro v2,0",
 			["Taiwanese"] = "絕對打擊護目鏡v2.0",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5552,6 +5567,9 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["classes"] = {
+			"shaman",
+		},		
 		["expansion"] = 2,
 		["id"] = 41315,
 		["item_id"] = 32476,
@@ -5568,7 +5586,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas trastotormenta",
 			["Taiwanese"] = "機件護目鏡",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5581,6 +5599,9 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["classes"] = {
+			"shaman",
+		},
 		["expansion"] = 2,
 		["id"] = 41316,
 		["item_id"] = 32475,
@@ -5597,7 +5618,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas del Replicador viviente",
 			["Taiwanese"] = "生命複製護目鏡",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5610,6 +5631,10 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["classes"] = {
+			"druid",
+			"rogue",
+		},
 		["expansion"] = 2,
 		["id"] = 41317,
 		["item_id"] = 32478,
@@ -5639,6 +5664,9 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["classes"] = {
+			"druid",
+		},
 		["expansion"] = 2,
 		["id"] = 41318,
 		["item_id"] = 32479,
@@ -5655,7 +5683,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de sol curamaravilla XT40",
 			["Taiwanese"] = "驚奇XT40護目鏡",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5668,6 +5696,9 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["classes"] = {
+			"druid",
+		},
 		["expansion"] = 2,
 		["id"] = 41319,
 		["item_id"] = 32480,
@@ -5684,7 +5715,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de la luna de amplificación",
 			["Taiwanese"] = "放大月光護目鏡",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5697,6 +5728,11 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["classes"] = {
+			"mage",
+			"priest",
+			"warlock",
+		},		
 		["expansion"] = 2,
 		["id"] = 41320,
 		["item_id"] = 32494,
@@ -5713,7 +5749,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas holográficas de destrucción",
 			["Taiwanese"] = "毀滅護目鏡",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5726,6 +5762,9 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["classes"] = {
+			"priest",
+		},		
 		["expansion"] = 2,
 		["id"] = 41321,
 		["item_id"] = 32495,
@@ -5742,7 +5781,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Lente de supersanación 4000",
 			["Taiwanese"] = "能量4000護目鏡",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
