@@ -13,7 +13,7 @@ MTSLUI_MINIMAP = {
     HALF_BUTTON_DIAMETER = 12,
 
     Initialise = function(self)
-        self.ui_frame = CreateFrame("Button", nil, Minimap)
+        self.ui_frame = CreateFrame("Button", "MTSL_MINIMAP", Minimap)
         self.ui_frame:SetFrameLevel(10)
         self.ui_frame:SetToplevel(true)
         self.ui_frame:SetSize(self.BUTTON_DIAMETER, self.BUTTON_DIAMETER)

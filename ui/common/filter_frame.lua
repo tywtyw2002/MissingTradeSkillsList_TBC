@@ -46,7 +46,7 @@ MTSLUI_FILTER_FRAME = {
         self.filter_frame_name = filter_frame_name
         self:InitialiseData()
         -- create the container frame
-        self.ui_frame = MTSLUI_TOOLS:CreateBaseFrame("Frame", "", parent_frame, nil, self.FRAME_WIDTH_VERTICAL, self.FRAME_HEIGHT, false)
+        self.ui_frame = MTSLUI_TOOLS:CreateBaseFrame("Frame", "MTSLUI_MTSLF_MISSING_SKILLS_FILTER_FRAME_TF", parent_frame, nil, self.FRAME_WIDTH_VERTICAL, self.FRAME_HEIGHT, false)
         -- Initialise each row of the filter frame
         self:InitialiseFirstRow()
         self:InitialiseSecondRow()
